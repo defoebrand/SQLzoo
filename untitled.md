@@ -7,6 +7,7 @@ This is Brandon's SQL Database project. All data in these files was copied from 
 * SQL
 * Atom
 * Ubuntu
+* Firefox
 
 ## Author
 
